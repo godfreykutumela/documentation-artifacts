@@ -37,3 +37,5 @@
 ## Extend Bulk Transfer
 * Design a PoC for advanced Bulk Payment Use Cases such as Bulk Lookup, Bulk Quote & Transfers for multiple Payee FSPs and present to the CCB
 
+## Code Quality and Security
+* Improve data protection measures, introduce a central cryptographic function and support core functionality 
