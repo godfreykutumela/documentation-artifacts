@@ -58,7 +58,17 @@
 •	Maintenance: Provide design, PR reviews, critical fixes, Helm releases and general technical oversight for contributions to core services
 
 ##	Versioning: 
-##	Code quality/security:
+##	Code quality/security Initiative: The overall objective and goal of the initiative is to continuously improve the Trust (reliability, transparency, privacy, quality, and security) of the Mojaloop System by supporting both functional and non-functional requirements of the project, working alongside other workstreams & various governance committees on a shared responsibility model. For the current phase the key focus areas are as follows:
+
+1. Enhance security in new functionality additions
+2. Support major implementations
+3. Design a secure cryptographic processing module
+4. Improve data protection measures and controls
+5. Baselining of Mojaloop against industry standards
+6. Maintain and enhance secure DevOps/CI CD practices
+7. Improve communication and community engagement
+8. Improve access control measures
+
 ##	Fraud Management: 
 
 ##	Leadership and Community mgmt.: 
