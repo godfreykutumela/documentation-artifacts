@@ -14,7 +14,7 @@
 - Demonstration UX that includes login & role based used creation mgmt
 - https://docs.google.com/spreadsheets/d/1wJynu57p0ZuQWkx6QI-utMCRHPbJ-KyXp-ywHzUQjBo/edit?usp=sharing
 
-## Reference Architecture
+## Refence Architecture
 - Agreed reference architecture
 - Agreed implementation architecture
 - Build all the breaking changes starting this PI, to release a beta w/ the final structure ASAP
@@ -22,6 +22,14 @@
 - https://docs.google.com/presentation/d/1oZz8wwKVKK4dGSP-9yjMrMKBJovowBFndA7UOXToRkM/edit#slide=id.gd35b442fa0_0_664
 
 ## Code Quality and Security 
+- DevSecOps Maintenance - Regular Security Patches + Updates
+- Support Implementation teams - Architecture alignment and security operations
+- Platform Hardening and Standard Baselining
+- Improve Cloud-Native Security – Develop a tested K8 Security standard for Mojaloop.
+- Implement a chryptographic processing module(CPM)
+- Provide input to the Mojaloop 2.0 Reference Architecture 
+- Perform security controls review on the FRM Design with a key focus on the Mojaloop Integration Model.
+- Coco and Product Council support, security model demonstration, on the Moja Demo’s initiative.
 
 ## Core Team
 - Release Mojaloop helm v12.1.0
