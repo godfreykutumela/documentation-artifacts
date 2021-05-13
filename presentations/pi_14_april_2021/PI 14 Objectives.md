@@ -21,11 +21,17 @@
 - Build plan for next PI
 - https://docs.google.com/presentation/d/1oZz8wwKVKK4dGSP-9yjMrMKBJovowBFndA7UOXToRkM/edit#slide=id.gd35b442fa0_0_664
 
-## Code Quality and Security 
-
 ## Core Team
 - Release Mojaloop helm v12.1.0
 - Implementat one of “separating external helm charts from Mojaloop”, “Reliable notifications” features
+
+## Platform Quality and Security
+- DevSecOps Enhancements and Maintenance
+- Support Implementation teams (Mainly Mowali)
+- Platform Hardening and Standard Baselining
+- Implement a cryptographic processing module (CPM)
+- PQS Support to Mojaloop 2.0 Reference Architecture 
+- Perform security controls review on the FRM-Mojaloop Integration Design
 
 ## Fraud
 - Implement a Mojaloop Payment Platform Adapter
